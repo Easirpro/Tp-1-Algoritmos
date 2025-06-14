@@ -1,0 +1,16 @@
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\bin\Debug\net8.0-windows\pruebaTP1.exe
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\bin\Debug\net8.0-windows\pruebaTP1.deps.json
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\bin\Debug\net8.0-windows\pruebaTP1.runtimeconfig.json
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\bin\Debug\net8.0-windows\pruebaTP1.dll
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\bin\Debug\net8.0-windows\pruebaTP1.pdb
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\obj\Debug\net8.0-windows\pruebaTP1.frmlogin.resources
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\obj\Debug\net8.0-windows\pruebaTP1.csproj.GenerateResource.cache
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\obj\Debug\net8.0-windows\pruebaTP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\obj\Debug\net8.0-windows\pruebaTP1.AssemblyInfoInputs.cache
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\obj\Debug\net8.0-windows\pruebaTP1.AssemblyInfo.cs
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\obj\Debug\net8.0-windows\pruebaTP1.csproj.CoreCompileInputs.cache
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\obj\Debug\net8.0-windows\pruebaTP1.dll
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\obj\Debug\net8.0-windows\refint\pruebaTP1.dll
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\obj\Debug\net8.0-windows\pruebaTP1.pdb
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\obj\Debug\net8.0-windows\pruebaTP1.genruntimeconfig.cache
+E:\Cursada 2do año\Algoritmos y estructuras de datos II\Proyectos C\pruebaTP1\pruebaTP1\obj\Debug\net8.0-windows\ref\pruebaTP1.dll
